@@ -53,4 +53,4 @@
 
 Немного добавление от Тимы. Обычный C# проект, связанный с разработкой на Unity группы ИС413. Всем писс! ^-^
 
-<p align="center"><img src="https://www.sticker-collection.com/manga_I_love_amy_amy/3764785?culture=ru"></p>
+<p align="center"><img src="https://storage.sticker-collection.com/stickers/plain/manga_I_love_amy_amy/thumbs/6cc15f6b-2087-41d6-84b6-56ca5585cce0file_4893663.webp"></p>
